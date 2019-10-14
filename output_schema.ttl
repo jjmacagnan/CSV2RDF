@@ -1,0 +1,19 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://197> a rdf:Property .
+
+<http://425> a rdf:Property .
+
+<http://535> a rdf:Property .
+
+<http://b> a rdf:Property .
+
+<http://circ> a rdf:Property .
+
+<http://g> a rdf:Property .
+
+<http://mdb001> a rdf:Property .
+

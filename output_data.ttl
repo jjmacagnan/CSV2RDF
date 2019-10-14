@@ -1,0 +1,2133 @@
+@prefix ns1: <http://> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:r_0 a <http://example.org/Class> ;
+    <http://197> 6.9e+01 ;
+    <http://425> "280" ;
+    <http://535> "522" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb002" .
+
+ns1:r_1 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb003" .
+
+ns1:r_10 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb011" .
+
+ns1:r_100 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb101" .
+
+ns1:r_101 a <http://example.org/Class> ;
+    <http://197> 3.8e+01 ;
+    <http://425> "460" ;
+    <http://535> "415" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb102" .
+
+ns1:r_102 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb103" .
+
+ns1:r_103 a <http://example.org/Class> ;
+    <http://197> 5e+01 ;
+    <http://425> "365" ;
+    <http://535> "357" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb104" .
+
+ns1:r_104 a <http://example.org/Class> ;
+    <http://197> 9.8e+01 ;
+    <http://425> "279" ;
+    <http://535> "516" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb105" .
+
+ns1:r_105 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb106" .
+
+ns1:r_106 a <http://example.org/Class> ;
+    <http://197> 1.11e+02 ;
+    <http://425> "621" ;
+    <http://535> "600" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb107" .
+
+ns1:r_107 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb108" .
+
+ns1:r_108 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb109" .
+
+ns1:r_109 a <http://example.org/Class> ;
+    <http://197> 5.1e+01 ;
+    <http://425> "427" ;
+    <http://535> "190" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb110" .
+
+ns1:r_11 a <http://example.org/Class> ;
+    <http://197> 4e+01 ;
+    <http://425> "458" ;
+    <http://535> "471" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb012" .
+
+ns1:r_110 a <http://example.org/Class> ;
+    <http://197> 1.07e+02 ;
+    <http://425> "575" ;
+    <http://535> "505" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb111" .
+
+ns1:r_111 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb112" .
+
+ns1:r_112 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb113" .
+
+ns1:r_113 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb114" .
+
+ns1:r_114 a <http://example.org/Class> ;
+    <http://197> 1.17e+02 ;
+    <http://425> "532" ;
+    <http://535> "461" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb115" .
+
+ns1:r_115 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb116" .
+
+ns1:r_116 a <http://example.org/Class> ;
+    <http://197> 8.4e+01 ;
+    <http://425> "576" ;
+    <http://535> "480" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb117" .
+
+ns1:r_117 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb118" .
+
+ns1:r_118 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb119" .
+
+ns1:r_119 a <http://example.org/Class> ;
+    <http://197> 7.9e+01 ;
+    <http://425> "262" ;
+    <http://535> "423" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb120" .
+
+ns1:r_12 a <http://example.org/Class> ;
+    <http://197> 3.1e+01 ;
+    <http://425> "365" ;
+    <http://535> "667" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb013" .
+
+ns1:r_120 a <http://example.org/Class> ;
+    <http://197> 8.7e+01 ;
+    <http://425> "434" ;
+    <http://535> "492" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb121" .
+
+ns1:r_121 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb122" .
+
+ns1:r_122 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb123" .
+
+ns1:r_123 a <http://example.org/Class> ;
+    <http://197> 3.3e+01 ;
+    <http://425> "620" ;
+    <http://535> "366" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb124" .
+
+ns1:r_124 a <http://example.org/Class> ;
+    <http://197> 6e+01 ;
+    <http://425> "552" ;
+    <http://535> "700" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb125" .
+
+ns1:r_125 a <http://example.org/Class> ;
+    <http://197> 2.3e+01 ;
+    <http://425> "549" ;
+    <http://535> "191" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb126" .
+
+ns1:r_126 a <http://example.org/Class> ;
+    <http://197> 4.8e+01 ;
+    <http://425> "551" ;
+    <http://535> "523" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb127" .
+
+ns1:r_127 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb128" .
+
+ns1:r_128 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb129" .
+
+ns1:r_129 a <http://example.org/Class> ;
+    <http://197> 2.8e+01 ;
+    <http://425> "552" ;
+    <http://535> "220" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb130" .
+
+ns1:r_13 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb014" .
+
+ns1:r_130 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb131" .
+
+ns1:r_131 a <http://example.org/Class> ;
+    <http://197> 5.2e+01 ;
+    <http://425> "788" ;
+    <http://535> "252" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb132" .
+
+ns1:r_132 a <http://example.org/Class> ;
+    <http://197> 1.8e+01 ;
+    <http://425> "766" ;
+    <http://535> "335" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb132" .
+
+ns1:r_133 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb133" .
+
+ns1:r_134 a <http://example.org/Class> ;
+    <http://197> 4.9e+01 ;
+    <http://425> "728" ;
+    <http://535> "469" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb134" .
+
+ns1:r_135 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb135" .
+
+ns1:r_136 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb136" .
+
+ns1:r_137 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb137" .
+
+ns1:r_138 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb138" .
+
+ns1:r_139 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb139" .
+
+ns1:r_14 a <http://example.org/Class> ;
+    <http://197> 6.8e+01 ;
+    <http://425> "864" ;
+    <http://535> "595" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb015" .
+
+ns1:r_140 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb140" .
+
+ns1:r_141 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "759" ;
+    <http://535> "470" ;
+    ns1:b "M" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb141" .
+
+ns1:r_142 a <http://example.org/Class> ;
+    <http://197> 2.6e+01 ;
+    <http://425> "636" ;
+    <http://535> "347" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb142" .
+
+ns1:r_143 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb143" .
+
+ns1:r_144 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "994" ;
+    <http://535> "233" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb144" .
+
+ns1:r_145 a <http://example.org/Class> ;
+    <http://197> 2.7e+01 ;
+    <http://425> "540" ;
+    <http://535> "313" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb144" .
+
+ns1:r_146 a <http://example.org/Class> ;
+    <http://197> 4.9e+01 ;
+    <http://425> "543" ;
+    <http://535> "669" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb145" .
+
+ns1:r_147 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb146" .
+
+ns1:r_148 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb147" .
+
+ns1:r_149 a <http://example.org/Class> ;
+    <http://197> 1.74e+02 ;
+    <http://425> "607" ;
+    <http://535> "326" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb148" .
+
+ns1:r_15 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb016" .
+
+ns1:r_150 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb149" .
+
+ns1:r_151 a <http://example.org/Class> ;
+    <http://197> 6.2e+01 ;
+    <http://425> "661" ;
+    <http://535> "351" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb150" .
+
+ns1:r_152 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb151" .
+
+ns1:r_153 a <http://example.org/Class> ;
+    <http://197> 4.8e+01 ;
+    <http://425> "486" ;
+    <http://535> "675" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb152" .
+
+ns1:r_154 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb153" .
+
+ns1:r_155 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb154" .
+
+ns1:r_156 a <http://example.org/Class> ;
+    <http://197> 9.5e+01 ;
+    <http://425> "480" ;
+    <http://535> "448" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb155" .
+
+ns1:r_157 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb156" .
+
+ns1:r_158 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb157" .
+
+ns1:r_159 a <http://example.org/Class> ;
+    <http://197> 8.8e+01 ;
+    <http://425> "565" ;
+    <http://535> "540" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb158" .
+
+ns1:r_16 a <http://example.org/Class> ;
+    <http://197> 4.8e+01 ;
+    <http://425> "573" ;
+    <http://535> "547" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb017" .
+
+ns1:r_160 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb159" .
+
+ns1:r_161 a <http://example.org/Class> ;
+    <http://197> 6.1e+01 ;
+    <http://425> "519" ;
+    <http://535> "536" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb160" .
+
+ns1:r_162 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb161" .
+
+ns1:r_163 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb162" .
+
+ns1:r_164 a <http://example.org/Class> ;
+    <http://197> 5e+01 ;
+    <http://425> "365" ;
+    <http://535> "391" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb163" .
+
+ns1:r_165 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb164" .
+
+ns1:r_166 a <http://example.org/Class> ;
+    <http://197> 4.2e+01 ;
+    <http://425> "490" ;
+    <http://535> "537" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb165" .
+
+ns1:r_167 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb166" .
+
+ns1:r_168 a <http://example.org/Class> ;
+    <http://197> 3.5e+01 ;
+    <http://425> "657" ;
+    <http://535> "574" ;
+    ns1:b "B" ;
+    ns1:circ "ARCH" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb167" .
+
+ns1:r_169 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb168" .
+
+ns1:r_17 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb018" .
+
+ns1:r_170 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb169" .
+
+ns1:r_171 a <http://example.org/Class> ;
+    <http://197> 8.2e+01 ;
+    <http://425> "480" ;
+    <http://535> "489" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb170" .
+
+ns1:r_172 a <http://example.org/Class> ;
+    <http://197> 6.2e+01 ;
+    <http://425> "627" ;
+    <http://535> "462" ;
+    ns1:b "M" ;
+    ns1:circ "ARCH" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb171" .
+
+ns1:r_173 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb172" .
+
+ns1:r_174 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb173" .
+
+ns1:r_175 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb174" .
+
+ns1:r_176 a <http://example.org/Class> ;
+    <http://197> 3.3e+01 ;
+    <http://425> "670" ;
+    <http://535> "592" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb175" .
+
+ns1:r_177 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb176" .
+
+ns1:r_178 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb177" .
+
+ns1:r_179 a <http://example.org/Class> ;
+    <http://197> 7e+01 ;
+    <http://425> "600" ;
+    <http://535> "492" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb178" .
+
+ns1:r_18 a <http://example.org/Class> ;
+    <http://197> 4.9e+01 ;
+    <http://425> "477" ;
+    <http://535> "653" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb019" .
+
+ns1:r_180 a <http://example.org/Class> ;
+    <http://197> 6.7e+01 ;
+    <http://425> "514" ;
+    <http://535> "600" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb179" .
+
+ns1:r_181 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb180" .
+
+ns1:r_182 a <http://example.org/Class> ;
+    <http://197> 5.4e+01 ;
+    <http://425> "362" ;
+    <http://535> "519" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb181" .
+
+ns1:r_183 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb182" .
+
+ns1:r_184 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb183" .
+
+ns1:r_185 a <http://example.org/Class> ;
+    <http://197> 1.14e+02 ;
+    <http://425> "624" ;
+    <http://535> "352" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb184" .
+
+ns1:r_186 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb185" .
+
+ns1:r_187 a <http://example.org/Class> ;
+    <http://197> 4.7e+01 ;
+    <http://425> "524" ;
+    <http://535> "403" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb186" .
+
+ns1:r_188 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb187" .
+
+ns1:r_189 a <http://example.org/Class> ;
+    <http://197> 6.1e+01 ;
+    <http://425> "617" ;
+    <http://535> "406" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb188" .
+
+ns1:r_19 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb020" .
+
+ns1:r_190 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb189" .
+
+ns1:r_191 a <http://example.org/Class> ;
+    <http://197> 3.1e+01 ;
+    <http://425> "621" ;
+    <http://535> "512" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb190" .
+
+ns1:r_192 a <http://example.org/Class> ;
+    <http://197> 4.1e+01 ;
+    <http://425> "516" ;
+    <http://535> "594" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb191" .
+
+ns1:r_193 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb192" .
+
+ns1:r_194 a <http://example.org/Class> ;
+    <http://197> 1.32e+02 ;
+    <http://425> "563" ;
+    <http://535> "399" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb193" .
+
+ns1:r_195 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb194" .
+
+ns1:r_196 a <http://example.org/Class> ;
+    <http://197> 2.6e+01 ;
+    <http://425> "129" ;
+    <http://535> "725" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb195" .
+
+ns1:r_197 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb196" .
+
+ns1:r_198 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb197" .
+
+ns1:r_199 a <http://example.org/Class> ;
+    <http://197> 9.3e+01 ;
+    <http://425> "612" ;
+    <http://535> "568" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb198" .
+
+ns1:r_2 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb004" .
+
+ns1:r_20 a <http://example.org/Class> ;
+    <http://197> 4.9e+01 ;
+    <http://425> "125" ;
+    <http://535> "493" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb021" .
+
+ns1:r_200 a <http://example.org/Class> ;
+    <http://197> 3.1e+01 ;
+    <http://425> "177" ;
+    <http://535> "641" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb199" .
+
+ns1:r_201 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb200" .
+
+ns1:r_202 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb201" .
+
+ns1:r_203 a <http://example.org/Class> ;
+    <http://197> 3.7e+01 ;
+    <http://425> "772" ;
+    <http://535> "557" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb202" .
+
+ns1:r_204 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb203" .
+
+ns1:r_205 a <http://example.org/Class> ;
+    <http://197> 2.1e+01 ;
+    <http://425> "399" ;
+    <http://535> "336" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb204" .
+
+ns1:r_206 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb205" .
+
+ns1:r_207 a <http://example.org/Class> ;
+    <http://197> 1.7e+01 ;
+    <http://425> "200" ;
+    <http://535> "368" ;
+    ns1:b "M" ;
+    ns1:circ "SPIC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb206" .
+
+ns1:r_208 a <http://example.org/Class> ;
+    <http://197> 1.9e+01 ;
+    <http://425> "564" ;
+    <http://535> "571" ;
+    ns1:b "B" ;
+    ns1:circ "SPIC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb207" .
+
+ns1:r_209 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb208" .
+
+ns1:r_21 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb022" .
+
+ns1:r_210 a <http://example.org/Class> ;
+    <http://197> 8.7e+01 ;
+    <http://425> "503" ;
+    <http://535> "647" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb209" .
+
+ns1:r_211 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb210" .
+
+ns1:r_212 a <http://example.org/Class> ;
+    <http://197> 1.3e+01 ;
+    <http://425> "327" ;
+    <http://535> "680" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb211" .
+
+ns1:r_213 a <http://example.org/Class> ;
+    <http://197> 3e+00 ;
+    <http://425> "882" ;
+    <http://535> "687" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb212" .
+
+ns1:r_214 a <http://example.org/Class> ;
+    <http://197> 4.5e+01 ;
+    <http://425> "520" ;
+    <http://535> "547" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb213" .
+
+ns1:r_215 a <http://example.org/Class> ;
+    <http://197> 1.1e+01 ;
+    <http://425> "916" ;
+    <http://535> "582" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb214" .
+
+ns1:r_216 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb215" .
+
+ns1:r_217 a <http://example.org/Class> ;
+    <http://425> "3*" ;
+    <http://535> "*NOTE" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb216" .
+
+ns1:r_218 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb217" .
+
+ns1:r_219 a <http://example.org/Class> ;
+    <http://197> 8e+00 ;
+    <http://425> "629" ;
+    <http://535> "519" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb218" .
+
+ns1:r_22 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "681" ;
+    <http://535> "538" ;
+    ns1:b "M" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb023" .
+
+ns1:r_220 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "756" ;
+    <http://535> "546" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb219" .
+
+ns1:r_221 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb220" .
+
+ns1:r_222 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb221" .
+
+ns1:r_223 a <http://example.org/Class> ;
+    <http://197> 1.7e+01 ;
+    <http://425> "427" ;
+    <http://535> "398" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb222" .
+
+ns1:r_224 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "482" ;
+    <http://535> "523" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb223" .
+
+ns1:r_225 a <http://example.org/Class> ;
+    <http://197> 6e+00 ;
+    <http://425> "529" ;
+    <http://535> "591" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb223" .
+
+ns1:r_226 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb224" .
+
+ns1:r_227 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb225" .
+
+ns1:r_228 a <http://example.org/Class> ;
+    <http://197> 7e+00 ;
+    <http://425> "610" ;
+    <http://535> "287" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb226" .
+
+ns1:r_229 a <http://example.org/Class> ;
+    <http://197> 2.5e+01 ;
+    <http://425> "550" ;
+    <http://535> "329" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb226" .
+
+ns1:r_23 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb024" .
+
+ns1:r_230 a <http://example.org/Class> ;
+    <http://197> 8e+00 ;
+    <http://425> "721" ;
+    <http://535> "531" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb226" .
+
+ns1:r_231 a <http://example.org/Class> ;
+    <http://197> 9e+00 ;
+    <http://425> "467" ;
+    <http://535> "504" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb227" .
+
+ns1:r_232 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb228" .
+
+ns1:r_233 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb229" .
+
+ns1:r_234 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb230" .
+
+ns1:r_235 a <http://example.org/Class> ;
+    <http://197> 4.4e+01 ;
+    <http://425> "538" ;
+    <http://535> "603" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb231" .
+
+ns1:r_236 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb232" .
+
+ns1:r_237 a <http://example.org/Class> ;
+    <http://425> "3*" ;
+    <http://535> "*NOTE" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb233" .
+
+ns1:r_238 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb234" .
+
+ns1:r_239 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb235" .
+
+ns1:r_24 a <http://example.org/Class> ;
+    <http://197> 7.9e+01 ;
+    <http://425> "443" ;
+    <http://535> "674" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb025" .
+
+ns1:r_240 a <http://example.org/Class> ;
+    <http://197> 1.4e+01 ;
+    <http://425> "824" ;
+    <http://535> "276" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb236" .
+
+ns1:r_241 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb237" .
+
+ns1:r_242 a <http://example.org/Class> ;
+    <http://197> 1.7e+01 ;
+    <http://425> "553" ;
+    <http://535> "522" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb238" .
+
+ns1:r_243 a <http://example.org/Class> ;
+    <http://197> 4e+01 ;
+    <http://425> "755" ;
+    <http://535> "645" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb239" .
+
+ns1:r_244 a <http://example.org/Class> ;
+    <http://197> 2.5e+01 ;
+    <http://425> "808" ;
+    <http://535> "567" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb239" .
+
+ns1:r_245 a <http://example.org/Class> ;
+    <http://197> 2.3e+01 ;
+    <http://425> "614" ;
+    <http://535> "643" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb240" .
+
+ns1:r_246 a <http://example.org/Class> ;
+    <http://197> 3.8e+01 ;
+    <http://425> "678" ;
+    <http://535> "453" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb241" .
+
+ns1:r_247 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb242" .
+
+ns1:r_248 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb243" .
+
+ns1:r_249 a <http://example.org/Class> ;
+    <http://197> 5.2e+01 ;
+    <http://425> "567" ;
+    <http://535> "466" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb244" .
+
+ns1:r_25 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb026" .
+
+ns1:r_250 a <http://example.org/Class> ;
+    <http://425> "3*" ;
+    <http://535> "*NOTE" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb245" .
+
+ns1:r_251 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb246" .
+
+ns1:r_252 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb247" .
+
+ns1:r_253 a <http://example.org/Class> ;
+    <http://197> 1e+01 ;
+    <http://425> "601" ;
+    <http://535> "378" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb248" .
+
+ns1:r_254 a <http://example.org/Class> ;
+    <http://197> 4.8e+01 ;
+    <http://425> "508" ;
+    <http://535> "544" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb249" .
+
+ns1:r_255 a <http://example.org/Class> ;
+    <http://197> 6.4e+01 ;
+    <http://425> "639" ;
+    <http://535> "575" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb249" .
+
+ns1:r_256 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb250" .
+
+ns1:r_257 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb251" .
+
+ns1:r_258 a <http://example.org/Class> ;
+    <http://197> 2.3e+01 ;
+    <http://425> "367" ;
+    <http://535> "439" ;
+    ns1:b "B" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb252" .
+
+ns1:r_259 a <http://example.org/Class> ;
+    <http://197> 2.8e+01 ;
+    <http://425> "564" ;
+    <http://535> "733" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb253" .
+
+ns1:r_26 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb027" .
+
+ns1:r_260 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb254" .
+
+ns1:r_261 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb255" .
+
+ns1:r_262 a <http://example.org/Class> ;
+    <http://197> 3.7e+01 ;
+    <http://425> "484" ;
+    <http://535> "400" ;
+    ns1:b "M" ;
+    ns1:circ "CALC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb256" .
+
+ns1:r_263 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb257" .
+
+ns1:r_264 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb258" .
+
+ns1:r_265 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb259" .
+
+ns1:r_266 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb260" .
+
+ns1:r_267 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb261" .
+
+ns1:r_268 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb262" .
+
+ns1:r_269 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb263" .
+
+ns1:r_27 a <http://example.org/Class> ;
+    <http://197> 5.6e+01 ;
+    <http://425> "314" ;
+    <http://535> "338" ;
+    ns1:b "M" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb028" .
+
+ns1:r_270 a <http://example.org/Class> ;
+    <http://197> 3.6e+01 ;
+    <http://425> "431" ;
+    <http://535> "596" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb264" .
+
+ns1:r_271 a <http://example.org/Class> ;
+    <http://197> 6e+01 ;
+    <http://425> "498" ;
+    <http://535> "593" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb265" .
+
+ns1:r_272 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb266" .
+
+ns1:r_273 a <http://example.org/Class> ;
+    <http://197> 5.6e+01 ;
+    <http://425> "481" ;
+    <http://535> "793" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb267" .
+
+ns1:r_274 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb268" .
+
+ns1:r_275 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb269" .
+
+ns1:r_276 a <http://example.org/Class> ;
+    <http://197> 7.2e+01 ;
+    <http://425> "945" ;
+    <http://535> "356" ;
+    ns1:b "M" ;
+    ns1:circ "CIRC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb270" .
+
+ns1:r_277 a <http://example.org/Class> ;
+    <http://197> 6.8e+01 ;
+    <http://425> "270" ;
+    <http://535> "784" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb271" .
+
+ns1:r_278 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb272" .
+
+ns1:r_279 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb273" .
+
+ns1:r_28 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb029" .
+
+ns1:r_280 a <http://example.org/Class> ;
+    <http://197> 1.23e+02 ;
+    <http://425> "505" ;
+    <http://535> "127" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb274" .
+
+ns1:r_281 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb275" .
+
+ns1:r_282 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb276" .
+
+ns1:r_283 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb277" .
+
+ns1:r_284 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb278" .
+
+ns1:r_285 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb279" .
+
+ns1:r_286 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb280" .
+
+ns1:r_287 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb281" .
+
+ns1:r_288 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb282" .
+
+ns1:r_289 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb283" .
+
+ns1:r_29 a <http://example.org/Class> ;
+    <http://197> 4.3e+01 ;
+    <http://425> "676" ;
+    <http://535> "322" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb030" .
+
+ns1:r_290 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb284" .
+
+ns1:r_291 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb285" .
+
+ns1:r_292 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb286" .
+
+ns1:r_293 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb287" .
+
+ns1:r_294 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb288" .
+
+ns1:r_295 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb289" .
+
+ns1:r_296 a <http://example.org/Class> ;
+    <http://197> 4.5e+01 ;
+    <http://425> "353" ;
+    <http://535> "337" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb290" .
+
+ns1:r_297 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb291" .
+
+ns1:r_298 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb292" .
+
+ns1:r_299 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb293" .
+
+ns1:r_3 a <http://example.org/Class> ;
+    <http://197> 3e+01 ;
+    <http://425> "133" ;
+    <http://535> "477" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb005" .
+
+ns1:r_30 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb031" .
+
+ns1:r_300 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb294" .
+
+ns1:r_301 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb295" .
+
+ns1:r_302 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb296" .
+
+ns1:r_303 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb297" .
+
+ns1:r_304 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb298" .
+
+ns1:r_305 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb299" .
+
+ns1:r_306 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb300" .
+
+ns1:r_307 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb301" .
+
+ns1:r_308 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb302" .
+
+ns1:r_309 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb303" .
+
+ns1:r_31 a <http://example.org/Class> ;
+    <http://197> 6.6e+01 ;
+    <http://425> "742" ;
+    <http://535> "388" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb032" .
+
+ns1:r_310 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb304" .
+
+ns1:r_311 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb305" .
+
+ns1:r_312 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb306" .
+
+ns1:r_313 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb307" .
+
+ns1:r_314 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb308" .
+
+ns1:r_315 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb309" .
+
+ns1:r_316 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb310" .
+
+ns1:r_317 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb311" .
+
+ns1:r_318 a <http://example.org/Class> ;
+    <http://197> 2e+01 ;
+    <http://425> "263" ;
+    <http://535> "240" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb312" .
+
+ns1:r_319 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb313" .
+
+ns1:r_32 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb033" .
+
+ns1:r_320 a <http://example.org/Class> ;
+    <http://197> 3.9e+01 ;
+    <http://425> "191" ;
+    <http://535> "518" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb314" .
+
+ns1:r_321 a <http://example.org/Class> ;
+    <http://197> 9.3e+01 ;
+    <http://425> "447" ;
+    <http://535> "516" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb315" .
+
+ns1:r_322 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb316" .
+
+ns1:r_323 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb317" .
+
+ns1:r_324 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb318" .
+
+ns1:r_325 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb319" .
+
+ns1:r_326 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb320" .
+
+ns1:r_327 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb321" .
+
+ns1:r_328 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb322" .
+
+ns1:r_33 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb034" .
+
+ns1:r_34 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb035" .
+
+ns1:r_35 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb036" .
+
+ns1:r_36 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb037" .
+
+ns1:r_37 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb038" .
+
+ns1:r_38 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb039" .
+
+ns1:r_39 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb040" .
+
+ns1:r_4 a <http://example.org/Class> ;
+    <http://197> 2.6e+01 ;
+    <http://425> "168" ;
+    <http://535> "500" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb005" .
+
+ns1:r_40 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb041" .
+
+ns1:r_41 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb042" .
+
+ns1:r_42 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb043" .
+
+ns1:r_43 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb044" .
+
+ns1:r_44 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb045" .
+
+ns1:r_45 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb046" .
+
+ns1:r_46 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb047" .
+
+ns1:r_47 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb048" .
+
+ns1:r_48 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb049" .
+
+ns1:r_49 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb050" .
+
+ns1:r_5 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb006" .
+
+ns1:r_50 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb051" .
+
+ns1:r_51 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb052" .
+
+ns1:r_52 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb053" .
+
+ns1:r_53 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb054" .
+
+ns1:r_54 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb055" .
+
+ns1:r_55 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb056" .
+
+ns1:r_56 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb057" .
+
+ns1:r_57 a <http://example.org/Class> ;
+    <http://197> 2.7e+01 ;
+    <http://425> "359" ;
+    <http://535> "318" ;
+    ns1:b "M" ;
+    ns1:circ "MISC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb058" .
+
+ns1:r_58 a <http://example.org/Class> ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb059" .
+
+ns1:r_59 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb060" .
+
+ns1:r_6 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb007" .
+
+ns1:r_60 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb061" .
+
+ns1:r_61 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb062" .
+
+ns1:r_62 a <http://example.org/Class> ;
+    <http://197> 3.3e+01 ;
+    <http://425> "463" ;
+    <http://535> "546" ;
+    ns1:b "B" ;
+    ns1:circ "MISC" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb063" .
+
+ns1:r_63 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb064" .
+
+ns1:r_64 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb065" .
+
+ns1:r_65 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb066" .
+
+ns1:r_66 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb067" .
+
+ns1:r_67 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb068" .
+
+ns1:r_68 a <http://example.org/Class> ;
+    <http://197> 4.4e+01 ;
+    <http://425> "406" ;
+    <http://535> "462" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb069" .
+
+ns1:r_69 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb070" .
+
+ns1:r_7 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb008" .
+
+ns1:r_70 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb071" .
+
+ns1:r_71 a <http://example.org/Class> ;
+    <http://197> 2.8e+01 ;
+    <http://425> "517" ;
+    <http://535> "266" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb072" .
+
+ns1:r_72 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb073" .
+
+ns1:r_73 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb074" .
+
+ns1:r_74 a <http://example.org/Class> ;
+    <http://197> 2.3e+01 ;
+    <http://425> "717" ;
+    <http://535> "468" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb075" .
+
+ns1:r_75 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb076" .
+
+ns1:r_76 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb077" .
+
+ns1:r_77 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb078" .
+
+ns1:r_78 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb079" .
+
+ns1:r_79 a <http://example.org/Class> ;
+    <http://197> 2e+01 ;
+    <http://425> "149" ;
+    <http://535> "432" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb080" .
+
+ns1:r_8 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb009" .
+
+ns1:r_80 a <http://example.org/Class> ;
+    <http://197> 1.31e+02 ;
+    <http://425> "473" ;
+    <http://535> "492" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb081" .
+
+ns1:r_81 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb082" .
+
+ns1:r_82 a <http://example.org/Class> ;
+    <http://197> 3.8e+01 ;
+    <http://425> "194" ;
+    <http://535> "544" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb083" .
+
+ns1:r_83 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb084" .
+
+ns1:r_84 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb085" .
+
+ns1:r_85 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb086" .
+
+ns1:r_86 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb087" .
+
+ns1:r_87 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb088" .
+
+ns1:r_88 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb089" .
+
+ns1:r_89 a <http://example.org/Class> ;
+    <http://197> 4.9e+01 ;
+    <http://425> "547" ;
+    <http://535> "510" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb090" .
+
+ns1:r_9 a <http://example.org/Class> ;
+    <http://197> 3.3e+01 ;
+    <http://425> "425" ;
+    <http://535> "525" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb010" .
+
+ns1:r_90 a <http://example.org/Class> ;
+    <http://197> 2e+01 ;
+    <http://425> "494" ;
+    <http://535> "680" ;
+    ns1:b "B" ;
+    ns1:circ "CIRC" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb091" .
+
+ns1:r_91 a <http://example.org/Class> ;
+    <http://197> 4.3e+01 ;
+    <http://425> "662" ;
+    <http://535> "423" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb092" .
+
+ns1:r_92 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb093" .
+
+ns1:r_93 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "G" ;
+    ns1:mdb001 "mdb094" .
+
+ns1:r_94 a <http://example.org/Class> ;
+    <http://197> 2.9e+01 ;
+    <http://425> "517" ;
+    <http://535> "466" ;
+    ns1:b "M" ;
+    ns1:circ "ASYM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb095" .
+
+ns1:r_95 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb096" .
+
+ns1:r_96 a <http://example.org/Class> ;
+    <http://197> 3.4e+01 ;
+    <http://425> "297" ;
+    <http://535> "612" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb097" .
+
+ns1:r_97 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "F" ;
+    ns1:mdb001 "mdb098" .
+
+ns1:r_98 a <http://example.org/Class> ;
+    <http://197> 2.3e+01 ;
+    <http://425> "340" ;
+    <http://535> "714" ;
+    ns1:b "B" ;
+    ns1:circ "ASYM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb099" .
+
+ns1:r_99 a <http://example.org/Class> ;
+    ns1:circ "NORM" ;
+    ns1:g "D" ;
+    ns1:mdb001 "mdb100" .
+
